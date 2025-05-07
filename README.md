@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ryanmaclean
 - 👀 I’m interested in monitoring, automation, and sharing
-- 🌱 I’m currently learning Azure
+- 🌱 I’m currently learning about LLMs/genAI monitoring!
 - 🤝 I’m looking to collaborate on anything related to operations! 
 - 📫 How to reach me [@ryan_maclean](https://twitter.com/ryan_maclean) on Twitter
 
